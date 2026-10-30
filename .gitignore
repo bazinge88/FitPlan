@@ -1,0 +1,35 @@
+# OS / editor
+.DS_Store
+Thumbs.db
+
+# 本地缓存与工具目录
+.gradle-home/
+.android-home/
+.mimosa/
+.zcode/
+.zcodeignore
+
+# Android / Gradle 构建产物
+FitPlan/.gradle/
+FitPlan/.kotlin/
+FitPlan/.mimosa/
+FitPlan/build/
+FitPlan/app/build/
+**/build/
+FitPlan/local.properties
+*.class
+
+# 打包产物（体积大，不入库）
+*.apk
+*.aab
+*.ap_
+*.dex
+
+# .scratch 下的大体积二进制转储/截图
+.scratch/flomo-unpacked/
+.scratch/iteration12/
+
+# 生成物
+captures/
+.externalNativeBuild/
+.cxx/

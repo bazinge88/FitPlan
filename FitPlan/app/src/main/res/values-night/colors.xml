@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 深色模式：Splash 仍用品牌深绿（识别优先），首帧窗口底色用墨绿近黑避免跳变 -->
+    <color name="fitplan_window_background">#0F1210</color>
+</resources>

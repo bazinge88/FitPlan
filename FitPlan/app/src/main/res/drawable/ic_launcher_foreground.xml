@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 自适应图标前景：米白组环 + 对勾（品牌标记），居中于 66dp 安全区 -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- 组环（外径 46，环宽 7） -->
+    <path
+        android:fillColor="#00000000"
+        android:pathData="M54,31 a23,23 0 1,0 0,46 a23,23 0 1,0 0,-46"
+        android:strokeColor="#F3F6EC"
+        android:strokeLineCap="round"
+        android:strokeWidth="7" />
+    <!-- 对勾 -->
+    <path
+        android:fillColor="#00000000"
+        android:pathData="M43,54 L51,62 L66,45"
+        android:strokeColor="#F3F6EC"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:strokeWidth="8" />
+</vector>
